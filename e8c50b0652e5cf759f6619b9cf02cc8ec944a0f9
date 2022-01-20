@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4fe23510_ca7d0a70",
+        "filename": "arch/arm64/configs/vendor/sm8150-perf_defconfig",
+        "patchSetId": 2
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2022-01-20T12:29:36Z",
+      "side": 1,
+      "message": "This should be applied to TP1803_defconfig too in a following commit.",
+      "revId": "e8c50b0652e5cf759f6619b9cf02cc8ec944a0f9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
